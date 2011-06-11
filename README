@@ -1,0 +1,17 @@
+ConfigMG system is a java web application based on ZooKeeper.
+ConfigMG system targets to solve config management of business system in internet companies.
+
+Related technologies in ConfigMG system has :
+  1. zookeeper
+  2. jfreechart
+  3. sitemesh
+  4. c3p0
+  5. dbutils
+  6. jsp+servlet+javabean+el+jstl
+  7. mysql
+
+Besides it, ConfigMG System is my graduation design, it is not perfect enough. 
+As my first project in github, just for study. 
+Any person can't use it for business purpose. 
+
+Thinks!
